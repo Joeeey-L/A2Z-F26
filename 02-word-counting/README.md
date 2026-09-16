@@ -127,6 +127,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Jingyi Mao [XIYOUJI](https://editor.p5js.org/jm11454/sketches/Trm7BAxjG)
 - Ran [The Little Mermaid](https://app.notion.com/p/Week-2-3d6c2894908d809190d3c92032d978b9)
 - Tianchen - [Rhapsody on the Goddess of the Luo River](https://comfortable-drink-522.notion.site/Blog-2-3dc9066e2c78806aa7b1cbcd3bfb4624?source=copy_link)
+- Joey - [Comparison Based on Word Counting](https://funny-ladybug-a5e.notion.site/A2Z-Week-02-3dd37cbce93a8023a2b2c013c00fb091?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
