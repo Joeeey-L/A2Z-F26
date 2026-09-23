@@ -78,6 +78,7 @@
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [title](url)
+- Joey - [Biometric Pokémon Matcher](https://tattered-aluminum-b15.notion.site/A2Z-Week-03-3e4fe019f0a58075bec1e8011de24a4b)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
